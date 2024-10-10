@@ -20,7 +20,7 @@ Follow these steps to set up and run the Mi Store Clone locally:
 1. **Clone the Repository:**
 
    ```bash
-   
+   https://github.com/SwapnilG2977/MiStore_clone21.git
    cd Mi-Store-Clone
 
    ```
